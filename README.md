@@ -3,12 +3,8 @@
 
 ## Coursera Certificates
 
-- [ ] [Cybersecurity Operations Fundamentals Specialization] by CISCO: (https://www.coursera.org/specializations/cbrops)
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] [Cybersecurity Operations Fundamentals Specialization](https://www.coursera.org/specializations/cbrops) by CISCO
 
 ## edX certificates
 
-- [ ] [armEducation] catalogue: (https://www.edx.org/school/armeducation#programs)
+- [ ] [armEducation](https://www.edx.org/school/armeducation#programs) catalogue

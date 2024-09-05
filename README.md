@@ -1,8 +1,14 @@
-# profile
+# To Do List
 
 
-## To Do List
+## Coursera Certificates
 
-- [ ] Feature 1
-- [x] Feature 2 (Completed)
-- [ ] Bug Fix
+- [ ] [Cybersecurity Operations Fundamentals Specialization] by CISCO: (https://www.coursera.org/specializations/cbrops)
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+## edX certificates
+
+- [ ] [armEducation] catalogue: (https://www.edx.org/school/armeducation#programs)
